@@ -12,10 +12,6 @@ int main()
 	cout << "iveskite desimtaine israiska: ";
 	cin >> israiska;
 	toUTF8(israiska); // (0xc4)
-	/*
-	cout << "cia tik testas " << endl;
-	cout << (0xk);
-	*/
 
 	//fw << ConvertToUTF8(196); // (0xc4)
 	system("pause");
